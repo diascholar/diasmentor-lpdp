@@ -26,7 +26,7 @@ Secara umum, awardee memiliki kebebasan untuk menanyakan hal apapun seputar pers
 ---
 
 ## 4. Tugas 1
-Silahkan kontak mentor pendamping untuk menjadwalkan pertemuan perdana. Setelah itu, bahas mekanisme pertemuan rutin dan lain sebagainya jika ingin ditanyakan. Pastikan kontak mentor jauh hari sebelum pertemuan kedua (08 Juni 2024). Hal ini ditujukan untuk memastikan bahwa tugas 1 ini dapat selesai sebelum kelas tatap muka kedua terlaksana. Awardee yang gagal menyelesaikan tugas 1 ini tidak diperkenankan untuk mengikuti kelas selanjutnya. Jika terdapat kendala dalam mengontak mentor atau kendala lain dalam melaksanakan pertemuan perdana, silahkan hubungi admin Diascholar melalui Instagram atau email.
+> Silahkan `kontak mentor pendamping untuk menjadwalkan pertemuan perdana`. Setelah itu, bahas mekanisme pertemuan rutin dan lain sebagainya jika ingin ditanyakan. Pastikan kontak mentor jauh hari sebelum pertemuan kedua (08 Juni 2024). Hal ini ditujukan untuk memastikan bahwa tugas 1 ini dapat selesai sebelum kelas tatap muka kedua terlaksana. Awardee yang gagal menyelesaikan tugas 1 ini tidak diperkenankan untuk mengikuti kelas selanjutnya. Jika terdapat kendala dalam mengontak mentor atau kendala lain dalam melaksanakan pertemuan perdana, silahkan hubungi admin Diascholar melalui Instagram atau email.
 
 ----
 
