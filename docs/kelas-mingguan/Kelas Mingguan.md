@@ -30,11 +30,5 @@ Catatan:
 1. Penjelasan terkait materi dan tugas terdapat pada tab masing-masing kelas mingguan.
 2. Jika terdapat perubahan jadwal pada kelas, akan disampaikan paling lambat H-3 sebelum kelas berlangsung.
 
-
-
-Salam,
-
-Committee of Diasmentor
-
 ----
 
