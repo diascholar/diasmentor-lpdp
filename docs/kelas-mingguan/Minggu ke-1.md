@@ -8,6 +8,8 @@ parent: Kelas Mingguan
 # Minggu ke-1: Pengumuman & Pertemuan Perdana dengan Mentor Pendamping
 {: .fs-9 }
 
+![mentor](https://www.dropbox.com/scl/fi/trcwkf02faxh3mvxdj8bq/diasmentor-1.png?rlkey=t6788h1khssb7uj2falqyx9wl&raw=1)
+
 Minggu pertama ini akan difokuskan kepada pemetaan awardee dengan para mentor pendamping. Seperti yang telah diketahui, mentor pendamping merupakan mentor yang akan membimbing peserta dalam penyelesaian tugas-tugas di luar pertemuan tatap muka.
 
 ---
@@ -21,8 +23,8 @@ Awardee akan diberikan nomor kontak mentor pendamping, bersamaan dengan pengumum
 ## 3. Apa yang Dibahas dalam Pertemuan Perdana Nanti?
 Secara umum, awardee memiliki kebebasan untuk menanyakan hal apapun seputar persiapan LPDP maupun studi. Namun ada satu hal wajib yang perlu disepakati, yakni mekanisme pertemuan rutin. Beberapa hal yang bisa ditanyakan (namun tidak terbatas kepada): apakah pertemuan rutin dilakukan secara berkelompok atau perseorangan? apakah akan ada hari tertentu yang dijadikan sebagai Waktu kumpul rutin atau bersifat tentatif? apakah pertemuan dilakukan secara daring atau luring? dan lain sebagainya.
 
-## 4. Tugas 1:
-Silahkan kontak mentor pendamping untuk menjadwalkan pertemuan perdana. Setelah itu, bahas mekanisme pertemuan rutin dan lain sebagainya jika ingin ditanyakan. Pastikan kontak mentor jauh hari sebelum pertemuan kedua (08 Juni 2024). Hal ini ditujukan untuk memastikan bahwa tugas 1 ini dapat selesai sebelum kelas tatap muka kedua terlaksana. Awardee yang gagal menyelesaikan tugas 1 ini tidak diperkenankan untuk mengikuti kelas selanjutnya. Jika terdapat kendala dalam mengontak mentor atau kendala lain dalam melaksanakan pertemuan perdana, silahkan hubungi admin Diascholar melalui Instagram atau email.
+{: .warning }
+**Tugas 1:** Silahkan kontak mentor pendamping untuk menjadwalkan pertemuan perdana. Setelah itu, bahas mekanisme pertemuan rutin dan lain sebagainya jika ingin ditanyakan. Pastikan kontak mentor jauh hari sebelum pertemuan kedua (08 Juni 2024). Hal ini ditujukan untuk memastikan bahwa tugas 1 ini dapat selesai sebelum kelas tatap muka kedua terlaksana. Awardee yang gagal menyelesaikan tugas 1 ini tidak diperkenankan untuk mengikuti kelas selanjutnya. Jika terdapat kendala dalam mengontak mentor atau kendala lain dalam melaksanakan pertemuan perdana, silahkan hubungi admin Diascholar melalui Instagram atau email.
 
 ----
 
