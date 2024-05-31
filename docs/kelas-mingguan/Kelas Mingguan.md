@@ -15,7 +15,7 @@ Pada bagian ini, akan dijelaskan secara lebih terperinci terkait mekanisme pelak
  
 | Minggu ke- |     Tanggal     |   Waktu Pelaksanaan (WIB) |    Materi LPDP                                          | Materi Universitas                                      |
 |------------|-----------------|---------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| 1          |   01-Jun-2024   | Sebelum 08 Juni 2024      | Pengumuman & pertemuan perdana dengan mentor pendamping | Pengumuman & pertemuan perdana dengan mentor pendamping |
+| 1          |   02-Jun-2024   | 02 s.d 08 Juni 2024      | Pengumuman & pertemuan perdana dengan mentor pendamping | Pengumuman & pertemuan perdana dengan mentor pendamping |
 | 2          |   08-Jun-2024   | 10.00-12.00               | Visioning                                               | Visioning                                               |
 | 3          |   15-Jun-2024   | 10.00-12.00               | Registrasi & Profiling                                  | Registrasi & Profiling                                  |
 | 4          |   22-Jun-2024   | 10.00-12.00               | Ph.D Proposal (for LPDP)                                | Ph.D Proposal (for Ph.D)                                |

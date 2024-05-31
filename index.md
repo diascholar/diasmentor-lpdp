@@ -11,7 +11,7 @@ permalink: /
 
 ![diasmentor](https://www.dropbox.com/scl/fi/knsszrpioakqf5velasfc/diasmentor.png?rlkey=40gte2g9ai0pedv4eylqmz8fx&raw=1)
 
-Selamat atas diterimanya sebagai awardee Diasmentor 1.0, Diascholar International Community. Ini merupakan suatu pencapaian yang besar dimana sobat terpilih sebagai salah satu yang layak mendapatkan mentorship dari 100+ yang mendaftar. Maka dari itu, sangat ditunggu untuk bisa berkenalan lebih lanjut dan mari kita maksimalkan proses pembelajaran kita di sini!
+Selamat atas diterimanya sebagai awardee Diasmentor 1.0, Diascholar International Community. Ini merupakan suatu pencapaian yang besar dimana sobat terpilih untuk mendapatkan mentorship dari 100+ yang mendaftar. Maka dari itu, sangat ditunggu untuk bisa berkenalan lebih lanjut dan mari kita maksimalkan proses pembelajaran kita di sini!
 
 ---
 
