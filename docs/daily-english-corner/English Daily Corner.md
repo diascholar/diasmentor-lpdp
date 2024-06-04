@@ -28,5 +28,8 @@ Meeting Code: 030619
 - At the end of the event, the pairs are encouraged to give a constructive feedback based on their current understanding.
 - The participants are then allowed to leave the zoom meeting.
 
+## 3. Great Example
+If you still don't have a clue about how speaking test works, then you must watch this [video](https://www.youtube.com/watch?v=k4715CJ0Ii8)!
+
 ----
 
